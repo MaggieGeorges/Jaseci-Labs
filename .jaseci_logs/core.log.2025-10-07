@@ -1,0 +1,40 @@
+2025-10-07 00:17:39,747 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a8a4d190>
+2025-10-07 00:17:39,763 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:17:39,764 - ERROR - compile_jac: guess_game4.jac: line 1:0 - unparsed:guess_game4.jac:0:0: - mismatched input '""' expecting {<EOF>, 'version', 'type', 'graph', 'node', 'import', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-07 00:17:39,764 - ERROR - register: guess_game4.jac: Code not registered
+2025-10-07 00:19:17,440 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-07 00:19:42,422 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a2a98950>
+2025-10-07 00:19:42,431 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:19:42,431 - ERROR - compile_jac: guess_game4.jac: line 4:22 - unparsed:guess_game4.jac:0:0: - mismatched input ':' expecting {';', ','}
+2025-10-07 00:19:42,432 - ERROR - compile_jac: guess_game4.jac: line 6:4 - unparsed:guess_game4.jac:0:0: - mismatched input 'can' expecting ';'
+2025-10-07 00:19:42,432 - ERROR - compile_jac: guess_game4.jac: line 12:0 - unparsed:guess_game4.jac:0:0: - mismatched input '}' expecting {':', '{'}
+2025-10-07 00:19:42,432 - ERROR - compile_jac: guess_game4.jac: line 15:0 - unparsed:guess_game4.jac:0:0: - extraneous input 'with' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-07 00:19:42,433 - ERROR - register: guess_game4.jac: Code not registered
+2025-10-07 00:20:52,949 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a2b12950>
+2025-10-07 00:20:52,950 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:20:52,950 - ERROR - compile_jac: guess_game4.jac: line 4:29 - unparsed:guess_game4.jac:0:0: - mismatched input ';' expecting {':', '{'}
+2025-10-07 00:20:52,950 - ERROR - compile_jac: guess_game4.jac: line 9:24 - unparsed:guess_game4.jac:0:0: - mismatched input ';' expecting {':', '{'}
+2025-10-07 00:20:52,951 - ERROR - compile_jac: guess_game4.jac: line 12:0 - unparsed:guess_game4.jac:0:0: - extraneous input 'with' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-07 00:20:52,951 - ERROR - register: guess_game4.jac: Code not registered
+2025-10-07 00:21:40,570 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a2b490d0>
+2025-10-07 00:21:40,571 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:21:40,571 - ERROR - compile_jac: guess_game4.jac: line 4:29 - unparsed:guess_game4.jac:0:0: - mismatched input ';' expecting {':', '{'}
+2025-10-07 00:21:40,572 - ERROR - compile_jac: guess_game4.jac: line 9:24 - unparsed:guess_game4.jac:0:0: - mismatched input ';' expecting {':', '{'}
+2025-10-07 00:21:40,572 - ERROR - compile_jac: guess_game4.jac: line 12:0 - unparsed:guess_game4.jac:0:0: - extraneous input 'with' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-07 00:21:40,573 - ERROR - register: guess_game4.jac: Code not registered
+2025-10-07 00:22:46,773 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a2fc59d0>
+2025-10-07 00:22:46,773 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:22:46,774 - ERROR - compile_jac: guess_game4.jac: line 4:4 - unparsed:guess_game4.jac:0:0: - mismatched input 'can' expecting {';', ','}
+2025-10-07 00:22:46,774 - ERROR - compile_jac: guess_game4.jac: line 9:14 - unparsed:guess_game4.jac:0:0: - no viable alternative at input 'cancheckentry'
+2025-10-07 00:22:46,774 - ERROR - compile_jac: guess_game4.jac: line 13:8 - unparsed:guess_game4.jac:0:0: - missing 'anchor' at 'turns'
+2025-10-07 00:22:46,775 - ERROR - compile_jac: guess_game4.jac: line 13:14 - unparsed:guess_game4.jac:0:0: - mismatched input '=' expecting ';'
+2025-10-07 00:22:46,775 - ERROR - compile_jac: guess_game4.jac: line 17:21 - unparsed:guess_game4.jac:0:0: - extraneous input '=' expecting NAME
+2025-10-07 00:22:46,776 - ERROR - compile_jac: guess_game4.jac: line 18:0 - unparsed:guess_game4.jac:0:0: - mismatched input '}' expecting {':', '{'}
+2025-10-07 00:22:46,776 - ERROR - register: guess_game4.jac: Code not registered
+2025-10-07 00:23:29,778 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-07 00:24:16,933 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f47a2fa2c90>
+2025-10-07 00:24:16,933 - ERROR - compile_jac: guess_game4.jac: Invalid syntax in Jac code!
+2025-10-07 00:24:16,934 - ERROR - compile_jac: guess_game4.jac: line 3:4 - unparsed:guess_game4.jac:0:0: - mismatched input 'can' expecting {';', ','}
+2025-10-07 00:24:16,935 - ERROR - compile_jac: guess_game4.jac: line 8:14 - unparsed:guess_game4.jac:0:0: - no viable alternative at input 'cancheckentry'
+2025-10-07 00:24:16,936 - ERROR - compile_jac: guess_game4.jac: line 11:0 - unparsed:guess_game4.jac:0:0: - extraneous input 'impl' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-07 00:24:16,937 - ERROR - register: guess_game4.jac: Code not registered

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+*.log
+
+# Virtual environment
+jaseci-env/
+env/
+venv/
+*.venv/
+
+# Jaseci cache & artifacts
+.jaseci/
+*.jac.pyc
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS / WSL
+.DS_Store
+Thumbs.db
+
+# Notebook / temp files
+*.ipynb_checkpoints
+*.tmp
+
+
+# Local environment variables
+.env
